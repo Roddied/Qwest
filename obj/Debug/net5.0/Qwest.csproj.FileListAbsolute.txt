@@ -1,0 +1,16 @@
+/home/roddied/Documents/C#docs/Qwest/bin/Debug/net5.0/Qwest
+/home/roddied/Documents/C#docs/Qwest/bin/Debug/net5.0/Qwest.deps.json
+/home/roddied/Documents/C#docs/Qwest/bin/Debug/net5.0/Qwest.runtimeconfig.json
+/home/roddied/Documents/C#docs/Qwest/bin/Debug/net5.0/Qwest.runtimeconfig.dev.json
+/home/roddied/Documents/C#docs/Qwest/bin/Debug/net5.0/Qwest.dll
+/home/roddied/Documents/C#docs/Qwest/bin/Debug/net5.0/ref/Qwest.dll
+/home/roddied/Documents/C#docs/Qwest/bin/Debug/net5.0/Qwest.pdb
+/home/roddied/Documents/C#docs/Qwest/obj/Debug/net5.0/Qwest.csproj.AssemblyReference.cache
+/home/roddied/Documents/C#docs/Qwest/obj/Debug/net5.0/Qwest.GeneratedMSBuildEditorConfig.editorconfig
+/home/roddied/Documents/C#docs/Qwest/obj/Debug/net5.0/Qwest.AssemblyInfoInputs.cache
+/home/roddied/Documents/C#docs/Qwest/obj/Debug/net5.0/Qwest.AssemblyInfo.cs
+/home/roddied/Documents/C#docs/Qwest/obj/Debug/net5.0/Qwest.csproj.CoreCompileInputs.cache
+/home/roddied/Documents/C#docs/Qwest/obj/Debug/net5.0/Qwest.dll
+/home/roddied/Documents/C#docs/Qwest/obj/Debug/net5.0/ref/Qwest.dll
+/home/roddied/Documents/C#docs/Qwest/obj/Debug/net5.0/Qwest.pdb
+/home/roddied/Documents/C#docs/Qwest/obj/Debug/net5.0/Qwest.genruntimeconfig.cache
