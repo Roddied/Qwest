@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NGqXnIlw8sBTvru88YQjwvflfbrE+AxG6il8L5Oth8Lv0B6RRasNJWBTczR6dd1UJFNs7Dfde7bPMrhhvml75w==",
+  "dgSpecHash": "B8N+qWtNuKUSSC1G1PkxRfYR8BjPv20v3iN+vW9jwBejIjk5RTMUdZqFhm12UScf4N7aMnRG2K+81Qv5hpGPMw==",
   "success": true,
-  "projectFilePath": "/home/roddied/Documents/C#docs/Qwest/Qwest.csproj",
+  "projectFilePath": "e:\\GitHub\\Qwest\\Qwest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

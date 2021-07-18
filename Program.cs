@@ -20,10 +20,17 @@ namespace Qwest
             return d10;
         }
     }
+    class Greetings { 
+    
+    }
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Little Mouse\nWhat is your name?");
+            string Name = Console.ReadLine();
+            await.Task.Delay(50);
+            Console.WriteLine("Oh, hello, " + Name + ". And I'm Kaleb - your mentor for this test.");
             int d20 = Dice.D20();
             int d8 = Dice.D8();
             int d10 = Dice.D10();
